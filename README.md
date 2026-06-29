@@ -1,7 +1,11 @@
 ​Deloitte Australia Data Analytics Virtual Internship
+
 ​Project: Daikibo Factory - Defective Device Analysis
+
 ​📊 Project Overview
+
 ​This project was part of the Deloitte Australia Data Analytics Virtual Internship via Forage. The goal was to assist Daikibo, a large-scale manufacturing firm, in identifying why certain factory locations were producing more defective devices than others.
+
 ​🛠️ Tech Stack
 ​Data Processing: Microsoft Excel (Cleaning & Preparation)
 ​Data Visualization: Tableau
