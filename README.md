@@ -12,7 +12,7 @@
 ​Data Visualization: Tableau
 ​Documentation: Markdown
 
-​**🔍 Data Engineering & Cleaning Process**
+​**🔍 Data Engineering & Cleaning Process** :
 ​Before the analysis, I performed the following ETL-style steps to ensure data integrity:
 ​Data Profiling: Identified missing values and inconsistent data types across factory logs.
 ​Data Transformation: Created new calculated columns to normalize "Defect Rates" across different production volumes.
@@ -21,7 +21,7 @@
 ​**📈 Key Insights & Analysis**
 ​The analysis focused on identifying the correlation between factory location, device type, and defect frequency.
 ​1. Regional Performance:
-### 📊** Tableau Dashboard**: Defective Device Trends and Defect Patterns:
+### 📊Tableau Dashboard: Defective Device Trends and Defect Patterns:
 ![Tableau Factory Dashboard](images/daikiboFactory.png)
 ​Identified specific "High-Risk" zones where the defect rate was significantly higher than the national average.
 
